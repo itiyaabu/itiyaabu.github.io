@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itiyaabu.github.io/DfQ/sitemap_index.txt.gz
+Sitemap: https://itiyaabu.github.io/Knc/sitemap_index.txt.gz
+Sitemap: https://itiyaabu.github.io/Stx/sitemap_index.txt.gz
+Sitemap: https://itiyaabu.github.io/iAC/sitemap_index.txt.gz
+Sitemap: https://itiyaabu.github.io/rTE/sitemap_index.txt.gz
